@@ -1,0 +1,7 @@
+D:\VAITES\CAOD\Stake\Stake\bin\Debug\Stake.exe.config
+D:\VAITES\CAOD\Stake\Stake\bin\Debug\Stake.exe
+D:\VAITES\CAOD\Stake\Stake\bin\Debug\Stake.pdb
+D:\VAITES\CAOD\Stake\Stake\obj\Debug\Stake.csprojResolveAssemblyReference.cache
+D:\VAITES\CAOD\Stake\Stake\obj\Debug\Stake.csproj.CoreCompileInputs.cache
+D:\VAITES\CAOD\Stake\Stake\obj\Debug\Stake.exe
+D:\VAITES\CAOD\Stake\Stake\obj\Debug\Stake.pdb
